@@ -5,4 +5,4 @@ function main(){
 }
 
 
-main()
+main();
